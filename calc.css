@@ -4,6 +4,8 @@
     font-family: sans-serif;
     box-sizing: border-box;
 }
+
+ /* this is the whole css */
 .container{
     background-color: rgb(199, 196, 192);
     width: 100%;
